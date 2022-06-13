@@ -9,3 +9,9 @@ ui I made during my journey of learning ui/ux design in figma
 
 ### #Marvel OTT Site UI
 <img src="https://github.com/virtualwiz1/learning-figma/blob/main/ott%20site/marvel-ott.png">
+
+### #Chat app UI
+<img src="https://github.com/virtualwiz1/learning-figma/blob/main/chat-ui/chat-ui.png">
+
+### #Wiz-Music mobile app UI
+<img src="https://github.com/virtualwiz1/learning-figma/blob/main/wizmusic/wizmusic.png">
